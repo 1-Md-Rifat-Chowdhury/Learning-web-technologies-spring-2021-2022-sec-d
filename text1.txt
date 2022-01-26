@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang=" Lab Assignment">
+
+<head>
+
+<title> Phone Company</title>
+
+</head>
+
+<body>
+<table>
+        <tr> 
+                <th> ID </th>
+
+	        <th> NAME </th>
+		<th> UNIT PRICE </th>
+		<th> STOCK </th>
+		<th> STATUS </th>
+     </tr>
+              
+<Phone Company>
+	<Phone Company id="11">
+		<name> Samsung </name>
+		<Unit price> 3500 </Unit price>
+		<Stock> 50 </Stock>
+		<Status> 1 </Status>
+	</Phone Company>
+
+
+	<Phone Company id="20">
+		<name> HTC </name>
+		<Unit price> 65300 </Unit price>
+		<Stock> 35 </Stock>
+		<Status> 0 </Status>
+	</Phone Company>
+	
+
+        
+	   <student id="23">
+		<name> Nokia </name>
+		<Unit price> 25100 </Unit price>
+		<Stock> 100 </Stock>
+		<Status> 1 </Status>
+	</Phone Company>
+
+</Phone Company>
+
+</body>
+</html>
+	

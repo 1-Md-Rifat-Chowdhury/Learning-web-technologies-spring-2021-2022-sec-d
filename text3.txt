@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html lang=" Lab Assignment">
+
+<head>
+
+<title> Employee Details </title>
+
+</head>
+
+<body>
+
+<table>
+        <tr> 
+               
+<br> </br>       <th> ID </th>
+	        <th> Name </th>
+		<th> Address </th>
+		<th> Depaartment  </th>
+		<th> salary </th>
+		
+     </tr>
+              
+<employees>
+	<employee ID="1">
+		<name> John Doe</name>
+		<Address> H#38, R#3, Banani,Dhaka </Address>
+		<Depaartment > Sales </Depaartment >
+		<salary> $20000 </salary>
+
+	</employee>
+
+
+	<employee ID="2">
+		<name>Mark Zakarberg</name>
+		<Address> H#38, R#3, mirpur,Dhaka </Address>
+		<Depaartment > Human resourse </Depaartment >
+		<salary> $120000 </salary>
+		
+	</employee>
+
+        
+	   <employee ID="3">
+		<name> Ala voski</name>
+		<Address> H#38, R#3, Motijeel,Dhaka </Address>
+		<Depaartment > Account </Depaartment >
+		<salary> $30000 </salary>
+		
+	</employee>
+
+</employees>
+
+</body>
+</html>
+	
