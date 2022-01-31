@@ -1,0 +1,17 @@
+<html>
+
+<head>
+<title> CV </title>
+</head>
+
+
+<body>
+ 
+<p>   <h2>Curriculum vaite of</h2>
+ </p>
+
+
+
+
+</body>
+</html>
